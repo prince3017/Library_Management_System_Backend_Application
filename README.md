@@ -3,7 +3,7 @@ This is a Spring Boot application for managing a library system where students c
 
 ## Screenshots of ER diagram
 
-![App Screenshot](https://github.com/prince3017/Library_Management_System_Backend_Application/blob/master/ER Diagram.png)
+![App Screenshot](https://github.com/prince3017/Library_Management_System_Backend_Application/blob/master/ER_Model.png)
 
 
 
