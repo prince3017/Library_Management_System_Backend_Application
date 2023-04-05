@@ -80,3 +80,11 @@ Contributions are always welcome!
  - [Push to the branch (git push origin feature/feature-name)]()
  - [Create a new Pull Request]()
 
+
+
+
+If you find any difficulty in installing the application then reach me 
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-mahto-9a79ab136/)
+
